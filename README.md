@@ -6,5 +6,8 @@
    - [ ] Postorder Traversal
 2. Search
    - [x] Binary Search
+   - [x] Deep First Search
+   - [x] Deep First Search LC 90
+   - [ ] Breath First Search
 3. Sort
    - [ ] Quick Sort
