@@ -3,6 +3,7 @@
 1. Traversal
    - [ ] Preorder Traversal
    - [x] Inorder Traversal
+   - [x] Inorder Traversal LC 530 783
    - [ ] Postorder Traversal
 2. Search
    - [x] Binary Search
