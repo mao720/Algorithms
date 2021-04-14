@@ -13,3 +13,6 @@
    - [ ] Breath First Search
 3. Sort
    - [ ] Quick Sort
+4. Tree
+   - [x] Trie
+   - [x] Trie_LC_208
