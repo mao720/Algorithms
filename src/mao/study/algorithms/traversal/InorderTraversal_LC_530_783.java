@@ -24,6 +24,10 @@ public class InorderTraversal_LC_530_783 {
     }
 
     public static void main(String[] args) {
+//        530. 二叉搜索树的最小绝对差
+//        Easy
+//        783. 二叉搜索树节点最小距离
+//        Easy
 //        给你一棵所有节点为非负值的二叉搜索树，请你计算树中任意两节点的差的绝对值的最小值。
 //
 //        示例：

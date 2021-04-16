@@ -2,6 +2,7 @@
 ### :scroll: 常用算法实现
 1. Traversal
    - [x] Dynamic Programming
+   - [x] Dynamic Programming LC 87
    - [x] Dynamic Programming LC 198
    - [x] Dynamic Programming LC 213
    - [x] Dynamic Programming LC 337
