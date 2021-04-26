@@ -13,6 +13,7 @@
 2. Search
    - [x] Binary Search
    - [x] Binary Search LC 154
+   - [x] Binary Search LC 410 875 1011
    - [x] Deep First Search
    - [x] Deep First Search LC 90
    - [ ] Breath First Search
