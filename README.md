@@ -8,6 +8,8 @@
    - [x] Dynamic Programming LC 337
    - [x] Inorder Traversal
    - [x] Inorder Traversal LC 530 783
+   - [x] Inorder Traversal LC 897
+   - [x] Inorder Traversal LC 938
    - [ ] Postorder Traversal
    - [ ] Preorder Traversal
 2. Search
