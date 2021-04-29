@@ -16,9 +16,10 @@
    - [x] Binary Search
    - [x] Binary Search LC 154
    - [x] Binary Search LC 410 875 1011
+   - [x] Breath First Search
+   - [x] Breath First Search LC 403
    - [x] Deep First Search
    - [x] Deep First Search LC 90
-   - [ ] Breath First Search
 3. Sort
    - [ ] Quick Sort
 4. Tree
